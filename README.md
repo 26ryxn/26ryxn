@@ -46,7 +46,7 @@
 
 ## General github stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=26ryxn&theme=algolia)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=26ryxn&theme=algolia" alt="GitHub Streak" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=26ryxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="٢٦ Github Readme Stats" /></p>
 
