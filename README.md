@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="23886908" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/vegeta-gif-23886908">Vegeta GIF</a>from <a href="https://tenor.com/search/vegeta-gifs">Vegeta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/vegeta-gif-23886908="70%" alt="Vegeta Dark Blue Banner"/>
+
 </p>
 
 <h1 align="center">👋 Hello World!, I'm ٢٦</h1>
