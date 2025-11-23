@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/L0wjt3V.png" width="70%" alt="Vegeta Dark Blue Banner"/>
+  <div class="tenor-gif-embed" data-postid="23886908" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/vegeta-gif-23886908">Vegeta GIF</a>from <a href="https://tenor.com/search/vegeta-gifs">Vegeta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
-<h1 align="center">💙 Welcome, I'm ٢٦</h1>
+<h1 align="center">👋 Hello World!, I'm ٢٦</h1>
 <p align="center">
   Focus. Discipline. Growth.  
   Just like Vegeta — I'm constantly leveling up.
