@@ -48,10 +48,6 @@
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=26ryxn&theme=algolia" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=26ryxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="٢٦ Github Readme Stats" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=26ryxn&show_icons=true&locale=en&theme=algolia" alt="٢٦" /></p>
-</details>
 
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/851592876999318309/3DD1676EAEA7498975BBF009033F838231E0A358/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /><br>
