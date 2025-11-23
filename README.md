@@ -4,8 +4,6 @@
 
 <h1 align="center">👋 Hello World!, I'm ٢٦</h1>
 <p align="center">
-  Focus. Discipline. Growth.  
-  Just like Vegeta — I'm constantly leveling up.
 </p>
 
 ---
