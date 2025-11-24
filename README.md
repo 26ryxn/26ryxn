@@ -52,7 +52,7 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats-chi-silk.vercel.app?user=26ryxn&theme=holi-theme)](https://git.io/streak-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=26ryxn)](https://github.com/26ryxn/github-readme-stats)
 <div align=center>
   
   <img width=390 src="https://github-readme-stats-26ryxn.vercel.app/api?username=26ryxn&count_private=true&show_icons=true&theme=algolia&rank_icon=github&border_radius=10" alt="readme stats" />
