@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: *contact.twenysix@gmail.com*  
+- 📧 Email: *26ryxn@gmail.com*  
 - 🌍 Portfolio: *Coming soon*
 
 ---
