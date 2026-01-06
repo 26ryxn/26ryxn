@@ -40,7 +40,7 @@
 
 ## 📫 Contact
 - 📧 Email:  <a href="mailto:26ryxn@gmail.com">Email Me</a> 
-- 🌍 Portfolio: <a href="https://twenysx.github.io/" target="_blank" rel="noopener noreferrer">Twenty Six</a>
+- 🌍 Portfolio: <a href="https://twenysx.github.io/" target="_blank">Twenty Six</a>
 
 
 ---
